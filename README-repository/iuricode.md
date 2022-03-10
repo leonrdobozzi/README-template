@@ -49,7 +49,7 @@ npm i
 tsc
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando TCON-Backend
 
 Para usar TCON-Backend, siga estas etapas:
 
