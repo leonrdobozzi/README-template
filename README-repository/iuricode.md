@@ -76,7 +76,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/alextfonseca.png"/><br>
+        <img src="https://github.com/alextfonseca.png" width="100px;"/><br>
         <sub>
           <b>Alex Teixeira</b>
           <b>MOBILE</b>
