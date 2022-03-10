@@ -67,7 +67,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/leonrdobozzi.jpg" width="100px;" alt="Foto do Leonardo Bozzi no GitHub"/><br>
+        <img src="https://github.com/leonrdobozzi.png" width="100px;" alt="Foto do Leonardo Bozzi no GitHub"/><br>
         <sub>
           <b>Leonardo Bozzi</b>
           <b>BACKEND</b>
@@ -76,7 +76,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/alextfonseca.jpg"/><br>
+        <img src="https://github.com/alextfonseca.png"/><br>
         <sub>
           <b>Alex Teixeira</b>
           <b>MOBILE</b>
@@ -85,7 +85,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/71M-M414.jpg" width="100px;" alt="Foto do Guilherme Moreira"/><br>
+        <img src="https://github.com/71M-M414.png" width="100px;" alt="Foto do Guilherme Moreira"/><br>
         <sub>
           <b>Guilherme Moreira</b>
           <b>FRONTEND</b>
